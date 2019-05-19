@@ -90,6 +90,8 @@ goto case some_case
 
 理解度チェック3.sln
 
+コマンドライン引数は、プロジェクト→理解度チェック3 オプション→実行[構成][Default]から設定可能
+
 
 4. switch命令を使って変数languageの値が「C#」「Visual Basic」「F#」であれば「.NET対応言語」、「Python」「Ruby」であれば「スクリプト言語」、さもなければ「不明」と表示するコードを作成せよ
 
