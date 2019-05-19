@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "理解度チェック5", "理解度チェック5\理解度チェック5.csproj", "{96D59C4E-C03D-41C0-98F7-23F664E41975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D59C4E-C03D-41C0-98F7-23F664E41975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D59C4E-C03D-41C0-98F7-23F664E41975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D59C4E-C03D-41C0-98F7-23F664E41975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D59C4E-C03D-41C0-98F7-23F664E41975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
